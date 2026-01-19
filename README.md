@@ -1,7 +1,8 @@
 # 2-Player Snake Game (Java)
 
-A classic Snake game implemented in Java with **support for two players**, featuring boosts, obstacles, and a save/load system.  
+A classic Snake game implemented in Java with support for two players, featuring boosts, obstacles, and a save/load system.  
 This project demonstrates game logic, real-time input handling, and modular Java project organization.
+Used Java Swing library for graphics.
 
 ---
 
@@ -15,12 +16,18 @@ This project demonstrates game logic, real-time input handling, and modular Java
 ---
 
 ## Project Structure
-MULTIPLAYERSNAKE/
+MultiplayerSnake/
+
 ├── src/ 
+
 ├── assets/ 
+
 ├── saves/ 
+
 ├── README.md
+
 └── .gitignore
+
 - src/ contains all game logic and helper classes  
 - assets/ contains images or sounds used in the game  
 - saves/ stores runtime-generated game saves
@@ -69,4 +76,5 @@ MULTIPLAYERSNAKE/
 ---
 
 ## License
+
 This project is provided for educational and demonstration purposes.
